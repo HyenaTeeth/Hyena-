@@ -15,7 +15,7 @@
 ![image](https://github.com/HyenaTeeth/Hyena-/blob/master/p1.png)
 ## 学习Markdown
 ### 过程及经历
-（待编辑）
+2019.9.17 在简书上学完了基础的Markdown的语法，包括标题、分割线、引用、斜体、粗体、插入图片、插入链接、序号
 ### 实践
 1. [这里导入B站学习Github的网页链接](https://search.bilibili.com/all?keyword=github&from_source=banner_search)
 2.下面是分割线
