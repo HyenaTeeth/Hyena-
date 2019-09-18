@@ -8,21 +8,22 @@
 ## 学习git
 ### 过程及经历
 2019.9.17 了解了Git的概念和历史，通过廖雪峰的教程下载了Git。
-2019.9.18 创建了Git的用户名；创建了用于学习Git的文件夹和文件；学会了几个基础的命令--“git init”、“git log”、“git add”、“git commit -m ‘’”、“git status”、“git reset --heard HEAD^"
-【此处插入学习视频】（https://www.bilibili.com/video/av15024334?from=search&seid=974967169915749805）
+2019.9.18 创建了Git的用户名；创建了用于学习Git的文件夹和文件；学会了几个基础的命令--git init、git log、git add、git commit -m、git status、git reset --heard HEAD^;学会了插入图片
+[此处插入学习视频](https://www.bilibili.com/video/av15024334?from=search&seid=974967169915749805)
 ### 实践
 2019.9.18 在电脑上创建了文件夹，并将其变成库，写了一个小的文本，改动三次，追踪了每次的改动并在最后撤回了上一步。
+![image](https://github.com/HyenaTeeth/Hyena-/blob/master/p1.png)
 ## 学习Markdown
 ### 过程及经历
 （待编辑）
 ### 实践
-1. 【这里导入B站学习Git的网页链接】（https://search.bilibili.com/all?keyword=github&from_source=banner_search）
+1. [这里导入B站学习Github的网页链接](https://search.bilibili.com/all?keyword=github&from_source=banner_search)
 2.下面是分割线
 ***
 3. > 这里是引用的话  
 4. *这里是斜体*
 5. **这里是粗体**
-6. 目前不知道该如何导入图片地址
+6. 
 7. 目前没搞清楚到底该怎么做出表格
 8. 标题和序号已经展示了
 ## 进入程序部以后想学的东西
